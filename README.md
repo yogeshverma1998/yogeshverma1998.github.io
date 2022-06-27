@@ -2,7 +2,7 @@
 
 <!--[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)-->
 
-The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object.
+The purpose of this note is to act as a repository for all the literature read during my PhD. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object.
 
 ```diff
 - Paper Count = 77 /1280
