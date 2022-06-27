@@ -2,7 +2,7 @@
 
 <!--[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)-->
 
-The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page.
+The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object.
 
 ```diff
 - Paper Count = 77 /1280
@@ -16,9 +16,9 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Neural Flows](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf)
       * [FFJORD](https://arxiv.org/pdf/1810.01367.pdf)
       * [Neural Processes](https://arxiv.org/abs/1807.01622)
-      * [Review of Normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) 📝
+      * [Review of Normalizing flows](https://arxiv.org/pdf/1912.02762.pdf) 
       * [Variational multiple shooting for Bayesian ODEs with Gaussian processes](https://arxiv.org/pdf/2106.10905.pdf)
-      * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 📝
+      * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 
       * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
       * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
@@ -108,7 +108,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
 
 *  RL
 
-      * [Reinforcement Learning and Control as Probabilistic Inference](https://arxiv.org/pdf/1805.00909.pdf) 📝
+      * [Reinforcement Learning and Control as Probabilistic Inference](https://arxiv.org/pdf/1805.00909.pdf) 
   
   
          
