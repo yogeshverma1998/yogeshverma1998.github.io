@@ -5,7 +5,7 @@
 The purpose of this note is to act as a one place repository for all the literature read, presentations and ideas which have been formulated reside here and act as a one go place. The literature read has been segregated in different domains ranging from dynamics to representing molecule as a 3d object. Paper which are being currently read and analyzed are marked with 📝. The slides presented by me in subsequent meetings are dated and can be found at the end of this page.
 
 ```diff
-- Paper Count = 65 /1280
+- Paper Count = 77 /1280
 + Reading = 5
 ```
 
@@ -21,20 +21,31 @@ The purpose of this note is to act as a one place repository for all the literat
       * [Non-Autoregressive neural machine translation](https://openreview.net/pdf?id=B1l8BtlCb) 📝
       * [Your classifier is secretly an energy based model and you should treat it like one](https://arxiv.org/abs/1912.03263)
       * [Neural Relational Inference for Interacting systems](https://arxiv.org/pdf/2102.10240.pdf)
-      * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
       * [Learning Continuous-time PDEs from sparse data with GNNs](https://arxiv.org/abs/2006.08956)
-      * [Continuous Graph Flow](https://arxiv.org/abs/1908.02436)
       * [PointFlow](https://arxiv.org/pdf/1906.12320.pdf)
-      * [Evolving-Graph Gaussian Processes](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
       * [Conditional Random fields](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
       * [PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/2108.01938)
       * [Spherical Message passing for 3D Graph Networks](https://openreview.net/forum?id=givsRXsOt9r)
-      * [Simple GNN Regularisation for 3D Molecule Property prediction](https://openreview.net/forum?id=1wVvweK3oIb)
       * [Message Passing Neural PDE Solvers](https://arxiv.org/abs/2202.03376)
       * [Temporal Graph Networks](https://arxiv.org/abs/2006.10637)
       * [Neural Controlled Differential Equations](https://arxiv.org/abs/2005.08926)
       * [Variational Neural Cellular Automata](https://openreview.net/pdf?id=7fFO4cMBx_9)
-      
+      * [Learning to generate 3D shapes with generative cellular automata](https://arxiv.org/abs/2103.04130)
+      * [Neural process with stochastic attention](https://openreview.net/pdf?id=URep0STGewu)
+ 
+* Graph based learning
+
+     * [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580)
+     * [Simple GNN Regularisation for 3D Molecule Property prediction](https://openreview.net/forum?id=1wVvweK3oIb)
+     * [Graph Normalizing flows](https://arxiv.org/pdf/1905.13177.pdf)
+     * [Evolving-Graph Gaussian Processes](https://arxiv.org/abs/2106.15127#:~:text=Graph%20Gaussian%20Processes%20(GGPs)%20provide,limiting%20the%20applications%20of%20GGPs.)
+     * [Handling distribution shifts in graphs](https://arxiv.org/abs/2202.02466)
+     * [Learning to Solve PDE-constrained Inverse Problems with Graph Networks](https://arxiv.org/abs/2206.00711)
+     * [Topological graph neural networks](https://arxiv.org/abs/2102.07835)
+     * [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844)
+     * [Graph Coupled Oscillator Networks](https://arxiv.org/abs/2202.02296)
+
+
 * Physics Inspired ML
 
      * [Noether Networks](https://arxiv.org/pdf/2112.03321.pdf)
@@ -42,6 +53,7 @@ The purpose of this note is to act as a one place repository for all the literat
      * [Physics Informed Machine Learning](https://www.nature.com/articles/s42254-021-00314-5.pdf)
      * [Deconstructing the inductive biases of Hamiltonian neural networks](https://arxiv.org/pdf/2202.04836.pdf)
      * [Hamiltonian graph networks with ODE integrators](https://arxiv.org/abs/1909.12790)
+     * [Predicting physics in mesh-reduced space with temporal attention](https://arxiv.org/abs/2201.09113)
     
 
 *  Conformer generation and structure prediction
@@ -70,6 +82,8 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Geometric Transformers for protein interface contact prediction](https://arxiv.org/abs/2110.02423)
       * [A 3D Molecule Generative Model for Structure-Based Drug Design](https://arxiv.org/abs/2203.10446)
       * [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/abs/2110.06197)
+      * [Generative Coarse-Graining of Molecular Conformations](https://arxiv.org/abs/2201.12176#:~:text=Coarse%2Dgraining%20(CG)%20of,beads%20and%20drastically%20accelerates%20simulation.)
+      * [Generating 3D Molecules for Target Protein Binding](https://arxiv.org/abs/2204.09410)
       
 
 *  Diffusion, SDE and Score Matching Methods
@@ -88,7 +102,8 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [Reimaninan Neural SDE](https://openreview.net/pdf?id=SF8lkH-J6e9)
       * [Neural Sheaf Diffusion](https://openreview.net/forum?id=HtLzqEb1aec)
       * [Neural SDEs as Infinite-Dimensional GANs](https://arxiv.org/pdf/2102.03657)
-      * 
+      * [Score-based generative modeling through SDE](https://arxiv.org/abs/2011.13456)
+    
 
 *  RL
 
@@ -96,7 +111,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
   
   
          
-*  Slides Presented:
+<!--*  Slides Presented:
      
       * [26/01/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_260122.pdf) [Regular meeting]
       * [2/02/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_02022022.pdf) [Regular Meeting]
@@ -114,7 +129,7 @@ Comparison and Docking](https://pubmed.ncbi.nlm.nih.gov/21787306/)
       * [27/4/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_27042022.pdf)[Regular Meeting]
       * [04/05/2022]()[Regular Meeting]
       * [25/05/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_25052022.pdf)[Regular Meeting]
-      * [01/06/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_01062022.pdf)[Regular Meeting]
+      * [01/06/2022](https://github.com/yogeshverma1998/yogeshverma1998.github.io/blob/main/ppt_01062022.pdf)[Regular Meeting]-->
 
 
 
