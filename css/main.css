@@ -1369,3 +1369,21 @@ code {
   .profile-links {
     max-width: 100%;
     margin-bottom: 1em; } }
+
+/* Invited talks list */
+.talk-list li {
+  margin-bottom: 1.1em; }
+.talk-list b {
+  font-weight: 500; }
+.talk-venue {
+  color: #555; }
+.talk-tag {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0 0.45em;
+  font-size: 12px;
+  line-height: 1.6;
+  color: #b0103a;
+  border: 1px solid #e6b3c1;
+  border-radius: 3px;
+  vertical-align: 1px; }
