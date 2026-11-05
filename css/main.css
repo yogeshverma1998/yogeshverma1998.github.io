@@ -1345,3 +1345,27 @@ code {
 .prof-summary {
   margin-top: 2em;
 }
+/* Quick links under the profile photo */
+.profile-links {
+  max-width: 60%;
+  margin: 1.2em auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5em 1.1em;
+  font-size: 15px; }
+  .profile-links a {
+    color: #111;
+    white-space: nowrap; }
+    .profile-links a:hover {
+      color: #0e76a8;
+      text-decoration: none; }
+  .profile-links i {
+    font-size: 18px;
+    margin-right: 0.35em;
+    color: #0e76a8;
+    vertical-align: -1px; }
+@media screen and (max-width: 550px) {
+  .profile-links {
+    max-width: 100%;
+    margin-bottom: 1em; } }
